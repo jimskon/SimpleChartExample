@@ -13,7 +13,7 @@ const data = {
     label: 'Kilowatt hours by month',
     data: site2,
     fill: false,
-    borderColor: 'rgb(75, 192, 192)',
+    borderColor: 'rgb(25, 32, 77)',
     tension: 0.1
   }]
 };
