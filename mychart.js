@@ -3,7 +3,7 @@ const stats = [65, 59, 80, 81, 56, 55, 40];
 const data = {
   labels: labels,
   datasets: [{
-    label: 'My First Dataset',
+    label: 'Kilowatt hours by month',
     data: stats,
     fill: false,
     borderColor: 'rgb(75, 192, 192)',
@@ -17,7 +17,5 @@ const config = {
 };
  
  const ctx = document.getElementById('myChart');
-
-
   
 new Chart(ctx, config);
