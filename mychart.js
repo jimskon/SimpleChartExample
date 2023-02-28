@@ -6,7 +6,7 @@ const data = {
   datasets: [{
     label: 'Kilowatt hours by month',
     data: site1,
-    fill: false,
+    fill: true,
     borderColor: 'rgb(75, 192, 192)',
     tension: 0.1
   },{
