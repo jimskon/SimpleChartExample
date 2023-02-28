@@ -7,6 +7,7 @@ const data = {
     label: 'Kilowatt hours by month',
     data: site1,
     fill: true,
+    backgroundColor: 'rgb(255, 255, 153)',
     borderColor: 'rgb(75, 192, 192)',
     tension: 0.1
   },{
