@@ -19,7 +19,7 @@ const data = {
 };
  
 const config = {
-  type: 'bubble',
+  type: 'polarArea',
   data: data,
 };
  
