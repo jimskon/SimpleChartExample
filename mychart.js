@@ -19,7 +19,7 @@ const data = {
 };
  
 const config = {
-  type: 'polarArea',
+  type: 'bar',
   data: data,
 };
  
