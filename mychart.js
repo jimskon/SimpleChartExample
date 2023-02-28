@@ -23,6 +23,6 @@ const config = {
   data: data,
 };
  
- const ctx = document.getElementById('myChart');
+const ctx = document.getElementById('myChart');
   
 new Chart(ctx, config);
